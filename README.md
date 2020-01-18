@@ -9,12 +9,11 @@
 
 [Rugbyscorigramy](https://github.com/zactodd/rugbyscorigramy) is respotory for webscarpping and visualising rugby data. Some of the visualisation are ... . ... can be seen below.
 
-[Project Euler](https://github.com/zactodd/ProjectEuler) is a repoitory contain the the first 150 solution to the problems found on https://projecteuler.net/ using python 3.8. Below contains plots of lines of code (LOC), maximum memory usage and time for each of the answers.
+[Project Euler](https://github.com/zactodd/ProjectEuler) is a repoitory contain the the first 150 solution to the problems found on https://projecteuler.net/ using python 3.8. Below contains plots of lines of code (LOC), times for each of the answers.
 
 <p align="center">
-  <img src="images/loc_comparision.png" width=256>
-  <img src="images/time_comparision.png" width=256>
-  <img src="images/loc_comparision.png" width=256>
+  <img src="images/loc_comparision.png" width=400>
+  <img src="images/time_comparision.png" width=400>
 </p>
 
 ### Java Repositories
