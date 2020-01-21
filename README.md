@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="images/uav_orbit_tree.jpg" width=400>
+  <img src="images/uav_orbit_tree.jpg" width=600>
 </p>
 
 ## Repositories
@@ -42,6 +42,6 @@
 [Raytracing Example](https://github.com/zactodd/Ray-Tracing) is an example of various techiques involded in ray traching in the example seen below this includes; refections, shadows and transperany in a varity of 3D shpaes. AN example of this can be seen below.
 
 <p align="center">
-  <img src="images/raytracing_result.jpg" width=256>
+  <img src="images/raytracing_result.jpg" width=300>
 </p>
 
