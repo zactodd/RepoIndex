@@ -1,6 +1,9 @@
 # SFI
 ## Research Work
-## Spatial and Image Learning
+### Spatial and Image Learning
+<p align="center">
+  <img src="images/UC_MMS_front_view_annoated.jpg" width=400>
+</p>
 
 ### Tree Prunning
 
