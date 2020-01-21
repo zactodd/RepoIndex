@@ -1,6 +1,17 @@
 # SFI
 ## Research Work
+## Spatial and Image Learning
 
+### Tree Prunning
+
+<p align="center">
+  <img src="images/simple_uav.jpg" width=400>
+  <img src="images/complex_uav.jpg" width=400>
+</p>
+
+<p align="center">
+  <img src="images/uav_orbit_tree.jpg" width=400>
+</p>
 
 ## Repositories
 ### Python Repositories
