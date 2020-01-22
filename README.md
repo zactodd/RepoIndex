@@ -1,22 +1,28 @@
 # SFI
 ## Research Work
 ### Spatial and Image Learning
+
 <p align="center">
   <img src="images/UC_MMS_front_view_annoated.jpg" width=400>
 </p>
 
-### Tree Prunning
+### UAV Tree Prunning
+One of my tasks as part of 
 
 <p align="center">
   <img src="images/simple_uav.jpg" width=400>
   <img src="images/complex_uav.jpg" width=400>
 </p>
-The above figures show two of the obrit method that where tested. The left is a simple method were the UAV was given several way point on the orbit circle that were close enought togeter so that the UAV would not over turn between them. The secound is a more complex approach that
+
+The above figures show two of the orbit methods that were tested. The left figure shows a simpler method where the UAV was given several waypoints on the orbit circle that were close enough together so that the UAV would not overturn. The second is an example of one of the more complex approaches that were tested. The method worked by sending speed instructions base on the size on the orbit and used a [PID](https://en.wikipedia.org/wiki/PID_controller) controller to handle the accumulated error when it reaches a threshold orbit. The controller would stay active until the ideal orbit was maintained. In practice, the tree orbit was unstable enough that the controller would always be active. 
+
 
 <p align="center">
   <img src="images/uav_orbit_tree.jpg" width=600>
 </p>
 
+
+The above image shows 
 ## Repositories
 ### Python Repositories
 [Project Euler](https://github.com/zactodd/ProjectEuler) is a repoitory contain the the first 150 solution to the problems found on https://projecteuler.net/ using python 3.8. Below contains plots of lines of code (LOC), times for each of the answers.
