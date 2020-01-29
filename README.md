@@ -1,27 +1,4 @@
 # SFI
-## Research Work
-### Spatial and Image Learning
-
-<p align="center">
-  <img src="images/UC_MMS_front_view_annoated.jpg" width=400>
-</p>
-
-### UAV Tree Prunning
-One of my tasks as part of 
-
-<p align="center">
-  <img src="images/simple_uav.jpg" width=400>
-  <img src="images/complex_uav.jpg" width=400>
-</p>
-
-The above figures show two of the orbit methods that were tested. The left figure shows a simpler method where the UAV was given several waypoints on the orbit circle that were close enough together so that the UAV would not overturn. The second is an example of one of the more complex approaches that were tested. The method worked by sending speed instructions base on the size on the orbit and used a [PID](https://en.wikipedia.org/wiki/PID_controller) controller to handle the accumulated error when it reaches a threshold orbit. The controller would stay active until the ideal orbit was maintained. In practice, the tree orbit was unstable enough that the controller would always be active. 
-
-
-<p align="center">
-  <img src="images/uav_orbit_tree.jpg" width=600>
-</p>
-
-
 The above image shows 
 ## Repositories
 ### Python Repositories
