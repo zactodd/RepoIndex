@@ -14,11 +14,11 @@ Other python repositories include [ElevatorSaga](https://github.com/zactodd/Elev
 
 [TuneOut](https://github.com/zactodd/TuneOut) is a music tutoring desk appliaction. It teachs a varity a musical stutures including notes, intervals, chords and more. A tutorial for on the reposiroy page. As the code is from 2016, there may be unknown bugs.
 
-### C/C++ Repoistories
+### C++ Repoistories
 
 [Mircorcontroler Pong Game](https://github.com/zactodd/uc-fun-kit-pong) is a two player pong game that can be played between two UC fun kit mircorcontrollers. The two mircorcontrollers communicate using inferred red and conist of of a 7x5 LED display, and two button and 4-way joystick.
 
-[Raytracing Example](https://github.com/zactodd/Ray-Tracing) is an example of various techiques involded in ray traching in the example seen below this includes; refections, shadows and transperany in a varity of 3D shpaes. AN example of this can be seen below.
+[Raytracing Example](https://github.com/zactodd/Ray-Tracing) is an example of various techiques involded in ray traching in the example seen below this includes; refections, shadows and transperany in a varity of 3D shpaes. An example of this can be seen below.
 
 <p align="center">
    <img src="images/raytracing_result.jpg" width=500>
