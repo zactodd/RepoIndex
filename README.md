@@ -8,9 +8,7 @@
   <img src="images/time_comparision.png" width=400>
 </p>
 
-[ElevatorSaga](https://github.com/zactodd/ElevatorSaga) is a respoitory for the testing of the level answers to the game ElevatorSage game for at https://play.elevatorsaga.com/ . The goal of the game is to write javascript code to control the eleivators.
-
-[Rugbyscorigramy](https://github.com/zactodd/rugbyscorigramy) is respotory for webscarpping and visualising rugby data. Some of the visualisation are ... . ... can be seen below.
+Other python repositories include [ElevatorSaga](https://github.com/zactodd/ElevatorSaga), [Rugbyscorigramy](https://github.com/zactodd/rugbyscorigramy) and [Numberserach](https://github.com/zactodd/number_search). These are more small scale repoitories that are more sandboxs for working on new skills.
 
 ### Java Repositories
 [CrimeSpy](https://github.com/zactodd/CrimeSpy) is a crime monitoring desktop application that can be used to view data from Chicago, Illion, USA. There is a tutorial for some of the various features located at the repository. As the code is from 2015, there may be unknown bugs.
@@ -24,6 +22,6 @@
 [Raytracing Example](https://github.com/zactodd/Ray-Tracing) is an example of various techiques involded in ray traching in the example seen below this includes; refections, shadows and transperany in a varity of 3D shpaes. AN example of this can be seen below.
 
 <p align="center">
-  <img src="images/raytracing_result.jpg" width=300>
+   <img src="images/raytracing_result.jpg" width=500>
 </p>
 
