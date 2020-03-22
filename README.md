@@ -14,7 +14,7 @@ Other python repositories include [ElevatorSaga](https://github.com/zactodd/Elev
 
 [TuneOut](https://github.com/zactodd/TuneOut) is a music tutoring desk appliaction. It teachs a varity a musical stutures including notes, intervals, chords and more. A tutorial for on the reposiroy page. As the code is from 2016, there may be unknown bugs.
 
-### C++
+### C/C++
 
 [Mircorcontroler Pong Game](https://github.com/zactodd/uc-fun-kit-pong) is a two player pong game that can be played between two UC fun kit mircorcontrollers. The two mircorcontrollers communicate using inferred red and conist of of a 7x5 LED display, and two button and 4-way joystick.
 
