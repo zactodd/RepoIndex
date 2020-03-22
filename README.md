@@ -7,7 +7,7 @@
   <img src="images/time_comparision.png" width=400>
 </p>
 
-Other python repositories include [ElevatorSaga](https://github.com/zactodd/ElevatorSaga), [Rugbyscorigramy](https://github.com/zactodd/rugbyscorigramy) and [Numberserach](https://github.com/zactodd/number_search). These are more small scale repoitories that are more sandboxs for working on new skills.
+Other python repositories include [ElevatorSaga](https://github.com/zactodd/ElevatorSaga), [Rugbyscorigramy](https://github.com/zactodd/rugbyscorigramy) and [Numbersearch](https://github.com/zactodd/number_search). These are more small scale repoitories that are more sandboxs for working on new skills.
 
 ### Java
 [CrimeSpy](https://github.com/zactodd/CrimeSpy) is a crime monitoring desktop application that can be used to view data from Chicago, Illion, USA. There is a tutorial for some of the various features located at the repository. As the code is from 2015, there may be unknown bugs.
